@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: [View all publications](./publication/)
 
 content:
   # Filter on criteria
@@ -36,6 +36,4 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+<a href=https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9256-5516><i class="ai ai-ads big-icon"></i></a>
