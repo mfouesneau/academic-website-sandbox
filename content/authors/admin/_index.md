@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Astrophysics (Big data; databases; python; probabilistic methods)
+  - course: PhD in Astrophysics
     institution: University of Strasbourg, France
     year: 2010
-  - course: Master degree in Astrophysics (compact objects, high energy, inverse methods, galactic evolution, big data)
+  - course: Master degree in Astrophysics
     institution: Télécom Physique Strasbourg, France
     year: 2007
   - course: Engineer degree in Fundamental physics, simulations & signal processing
