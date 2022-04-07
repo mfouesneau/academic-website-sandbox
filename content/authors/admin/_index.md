@@ -46,8 +46,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mfouesneau
-- icon: fa-book     # graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fab
+- icon: ads
+  icon_pack: ai
   link: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9256-5516
 - icon: github
   icon_pack: fab
