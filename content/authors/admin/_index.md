@@ -77,7 +77,6 @@ highlight_name: true
 ---
 
 I am an astronomer and an engineer with 10+years of experience in terabyte data manipulation technologies, cloud
-computing, pipeline design, machine learning, as well as more than 5 years as a project manager in astronomy. In 2014,
-I joined the European Space Agency mission Gaia, where I lead a team of 40 scientists assessing the quality of the scientific products before their release to the community. I have also led the classification group in the 4MOST ground-based telescope project from the European Southern Observatory since 2016.
-
-I am now part of the Astronomy Data Science Department at the Max Planck Institute for Astronomy, where I regularly contribute to many data modeling and probabilistic inference in astronomy and computer science projects. My personal research focuses primarily on where stars form in galaxies linking them to the cosmological context through their chemical patterns and dynamical properties.
+computing, pipeline design, machine learning, as well as more than 5 years as a project manager in astronomy.
+I am part of the Astronomy Data Science Department at the Max Planck Institute for Astronomy.
+I regularly contribute to many data modeling and probabilistic inference in computer science projects, organic components studies, particle detector calibration, and space weather applications. My personal research focuses primarily on where stars form in galaxies linking them to the cosmological context through their chemical patterns and dynamical properties.
