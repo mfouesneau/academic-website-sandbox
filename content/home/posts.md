@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle: <a href='/post/'><i class="fab fa-solid fa-pen-clip">View all posts</i></a>
+subtitle: <a href='/post/'><i class="fab fa-pen-clip big-icon"></i>View all posts</a>
 
 content:
   # Filter on criteria
