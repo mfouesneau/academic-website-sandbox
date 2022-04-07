@@ -1,10 +1,10 @@
 ---
 title: "Escape fraction of ionizing photons from a dwarf galaxy NGC 4214"
 date: 2015-01-01
-publishDate: 2022-04-07T21:12:58.835492Z
+publishDate: 2022-04-07T21:16:16.588045Z
 authors: ["Yumi Choi", "Morgan Fouesneau", "Karl D. Gordon", "Benjamin F. Williams", "Julianne Dalcanton", "Daniel R. Weisz", "Heddy Arab", "Karin Sandstrom", "Andrew E. Dolphin"]
 publication_types: ["1"]
-abstract: ""
+abstract: "Recent studies suggest that starburst dwarf galaxies played an important role in the early universe. Because these galaxies dominate by number, their leaked ionizing photons are likely main contributors to the reionization of the intergalactic medium (IGM). However, the complex structure of the interstellar medium (ISM) even at the pc scale makes it hard to predict the escape fraction of ionizing photons from high-redshift galaxies accurately. Analogues to their high-redshift counterparts, nearby starburst dwarf galaxies provide excellent laboratories to study the impact of star formation on the surrounding ISM and IGM in detail. Thanks to its proximity, the dwarf galaxy, NGC 4214, has been imaged with the high-resolution of WFC3 on HST from the near-UV to the near-IR (F225W, F336W, F438W, F814W, F110W, and F160W). These observations yielded measurements of the broad spectral energy distributions (SEDs) for ensuremath∼36,000 resolved stars within this galaxy. We developed a probabilistic tool (Bayesian Extinction and Stellar Tool, a.k.a. BEAST) to simultaneously infer from their SEDs the stellar properties of individual stars and the intervening dust properties along the line of sight to each star. With the aid of BEAST, we are able to infer the intrinsic ionizing flux produced by individual stars. By comparing this intrinsic ionizing flux with the flux that is used to ionize the ISM in the galaxy, derived based on the extinction-corrected Hensuremathα emission, we can estimate the escape fraction and its local variation within the galaxy. Our preliminary results show that the global UV leakage of NGC 4214 is ensuremath∼10%."
 featured: false
 publication: "*American Astronomical Society Meeting Abstracts #225*"
 ---

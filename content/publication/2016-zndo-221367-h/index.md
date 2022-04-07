@@ -1,7 +1,7 @@
 ---
 title: "Annayqho/Thecannon"
 date: 2016-12-01
-publishDate: 2022-04-07T21:12:58.822293Z
+publishDate: 2022-04-07T21:16:16.574282Z
 authors: ["Anna Y.~Q. Ho", "Melissa K. Ness", "David W. Hogg", "Hans-Walter Rix", "Chao Liu", "Morgan Fouesneau"]
 publication_types: ["0"]
 abstract: ""

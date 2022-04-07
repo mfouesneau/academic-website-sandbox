@@ -1,10 +1,10 @@
 ---
 title: "Investigating the Life Cycle of Molecular Clouds in the Andromeda Galaxy"
 date: 2015-01-01
-publishDate: 2022-04-07T21:12:58.835887Z
+publishDate: 2022-04-07T21:16:16.588486Z
 authors: ["Lori Beerman", "Julianne Dalcanton", "Andreas Schruba", "Adam K. Leroy", "Lent C. Johnson", "Daniel R. Weisz", "Morgan Fouesneau", "PHAT Collaboration"]
 publication_types: ["1"]
-abstract: ""
+abstract: "There is currently a great divide between high resolution studies of stellar clusters and molecular clouds in the Milky Way, and those done in extragalactic systems, where individual stars and clouds cannot usually be resolved. For my thesis work, I combined several astronomical data sets to investigate the life cycle of molecular clouds in the Andromeda Galaxy. The primary data sets I used are the Panchromatic Hubble Andromeda Treasury (PHAT), which catalogued over 200 million stars, and a molecular cloud catalogue that is constructed from new high spatial/spectral resolution (20 pc, 1 km/s) CARMA observations. Several ancillary data sets, including H-alpha and Spitzer IR emission maps were also used, taking advantage of broad wavelength coverage to search for indicators of star formation with different timescales. Comparisons were also made with the PHAT cluster sample, and the youngest (<10 Myr) stellar clusters were used as an additional star formation indicator. The ages and masses of these clusters were determined by fitting the color-magnitude diagrams (CMDs) of their resolved stars to theoretical isochrones. The distribution of the youngest clusters shows a strong correlation with the molecular cloud distribution, while no correlation is evident for clusters greater than 30 Myr. Each molecular cloud in the sample was then classified as a star-forming cloud or a non-star forming cloud, based on the presence of any one of several star formation indicators. About 60% of the clouds in the sample were found to be associated with massive star formation. Based on the comparison between these observations and the results from a Monte Carlo simulation, I will also demonstrate how we can constrain the timescales for the relative phases in a cloud's life."
 featured: false
 publication: "*American Astronomical Society Meeting Abstracts #225*"
 ---
