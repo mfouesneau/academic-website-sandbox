@@ -18,9 +18,15 @@ bio: Interested in astronomy and data analysis puzzles
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics and data mining
+- Machine learning
+- Terabyte dataset manipulation
+- Collaborative software development
+- Star formation and evolution
+- Interstellar medium & dust
+- Population synthesis
+- Spectro-photometric analysis
+- Career Training & Development
 
 # Education to show in About widget
 education:
@@ -70,8 +76,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an astronomer and an engineer with 10+years of experience in terabyte data manipulation technologies, cloud
+computing, pipeline design, machine learning, as well as more than 5 years as a project manager in astronomy. In 2014,
+I joined the European Space Agency mission Gaia, where I lead a team of 40 scientists assessing the quality of the scientific products before their release to the community. I have also led the classification group in the 4MOST ground-based telescope project from the European Southern Observatory since 2016.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am now part of the Astronomy Data Science Department at the Max Planck Institute for Astronomy, where I regularly contribute to many data modeling and probabilistic inference in astronomy and computer science projects. My personal research focuses primarily on where stars form in galaxies linking them to the cosmological context through their chemical patterns and dynamical properties.
