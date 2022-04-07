@@ -36,4 +36,4 @@ design:
   columns: '2'
 ---
 
-<a href=https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9256-5516><i class="ai ai-ads big-icon"></i></a>
+<a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9256-5516"><i class="ai ai-ads big-icon"></i></a>
