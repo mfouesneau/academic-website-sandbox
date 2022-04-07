@@ -10,4 +10,3 @@ publication: "*åp*"
 tags: ["stars: distances", "dust", "extinction", "Galaxy: structure", "reference systems", "Astrophysics - Astrophysics of Galaxies"]
 doi: "10.1051/0004-6361/201628885"
 ---
-
