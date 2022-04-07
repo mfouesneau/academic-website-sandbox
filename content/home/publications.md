@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: [View all publications](./publication/)
+subtitle: ''
 
 content:
   # Filter on criteria
