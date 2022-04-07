@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle:
+subtitle: <a href='/posts/'><i class="fa-solid fa-pen-clip"></i> View all posts</a>
 
 content:
   # Filter on criteria
@@ -33,6 +33,7 @@ content:
 
 design:
   # Choose a view for the listings:
+  # see https://wowchemy.com/docs/getting-started/page-builder/#view
   view: compact
   columns: '2'
 ---
