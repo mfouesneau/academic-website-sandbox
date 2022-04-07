@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: '[View all publications](/publications)'
 
 content:
   # Filter on criteria
@@ -37,3 +37,4 @@ design:
 ---
 
 <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9256-5516"><i class="ai ai-ads big-icon"></i></a>
+<a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9256-5516">{{< icon name="ai-ads" pack="ai" >}}</a>
