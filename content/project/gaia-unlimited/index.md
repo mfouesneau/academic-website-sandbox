@@ -8,6 +8,6 @@ external_link: https://gaia-unlimited.org/
 image:
   filename: https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   alt_text: gaia unlimited logo
 ---

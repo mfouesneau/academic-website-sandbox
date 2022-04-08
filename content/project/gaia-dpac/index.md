@@ -8,5 +8,5 @@ external_link: https://www.cosmos.esa.int/web/gaia
 image:
   filename: https://www.cosmos.esa.int/documents/29201/0/Gaia_logo.png/62960d22-cdd9-02a2-c9d0-1bda19ab67cf?t=1607347628590
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
