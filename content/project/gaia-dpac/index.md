@@ -13,5 +13,5 @@ image:
 ---
 
 {{% callout note %}}
-[Gaia]https://www.cosmos.esa.int/web/gaia on the ESA Cosmos portal
+[Gaia](https://www.cosmos.esa.int/web/gaia) on the ESA Cosmos portal
 {{% /callout %}}
