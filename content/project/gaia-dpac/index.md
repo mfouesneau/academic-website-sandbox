@@ -7,7 +7,6 @@ date: 2022-04-08T06:06:11.446Z
 draft: false
 featured: false
 image:
-  caption: [Gaia](https://www.cosmos.esa.int/web/gaia)
   focal_point: Smart
 ---
 
