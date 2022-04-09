@@ -1,6 +1,6 @@
 ---
 title: Gaia Unlimited
-subtitle: Who is In, and Who is Not? Determining the Gaia Survey Selection Function
+summary: Who is In, and Who is Not? Determining the Gaia Survey Selection Function
 tags:
 - Gaia
 - selection function
