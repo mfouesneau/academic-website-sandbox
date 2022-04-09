@@ -11,7 +11,11 @@ featured: false
 authors:
   - admin
 tags:
+  - Arxiv
   - python
+  - code
+categories:
+  - Arxiv
   - code
 projects:
   - arxiv_on_deck_2
