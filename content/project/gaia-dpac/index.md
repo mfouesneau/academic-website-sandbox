@@ -3,12 +3,27 @@ title: Gaia DPAC
 subtitle: The Gaia Data Analysis and Processing Consortium
 tag:
 - Gaia
-date: 2022-04-08T06:06:11.446Z
-draft: false
-featured: false
+date: "2022-03-28T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
 image:
-  filename: feature.jpg
+  caption: ESA Gaia mission
   focal_point: Smart
+
+links:
+url_code: "https://mfouesneau.github.io/arxiv_on_deck_2/"
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 ---
 
 {{% callout note %}}
