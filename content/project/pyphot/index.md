@@ -10,7 +10,7 @@ tags:
   - photometry
 external_link: https://mfouesneau.github.io/pyphot/
 image:
-  filename: featured
+  filename: feature.png
   focal_point: Smart
   preview_only: false
 ---
