@@ -1,6 +1,6 @@
 ---
 title: Gaia DPAC
-subtitle: The Gaia Data Analysis and Processing Consortium
+summary: The Gaia Data Analysis and Processing Consortium
 tag:
 - Gaia
 date: "2022-03-28T00:00:00Z"
