@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://mfouesneau.github.io/arxiv_on_deck_2/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
