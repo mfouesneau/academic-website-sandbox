@@ -9,7 +9,6 @@ draft: false
 featured: false
 external_link: https://gaia-unlimited.org/
 image:
-  filename: feature.png
   focal_point: Smart
   preview_only: true
   alt_text: gaia unlimited logo
