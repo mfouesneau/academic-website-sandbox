@@ -11,7 +11,7 @@ featured: false
 authors:
   - admin
 tags:
-  - python;code
+  - python code
 projects:
   - arxiv_on_deck_2
 image:
