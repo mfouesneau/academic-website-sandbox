@@ -6,11 +6,12 @@ tag:
 date: "2022-03-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.cosmos.esa.int/web/gaia/home"
 
 image:
   caption: ESA Gaia mission
   focal_point: Smart
+  preview_only: true
 
 links:
 url_code: ""

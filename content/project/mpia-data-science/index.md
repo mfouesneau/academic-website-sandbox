@@ -4,23 +4,18 @@ url_pdf: ""
 summary: Bringing together Astronomy & Data Science
 url_video: ""
 date: 2022-03-28T00:00:00.000Z
-external_link: ""
+external_link: "http://www.mpia.de/institute/research-and-development/data-science"
 url_slides: ""
 title: MPIA Data Science dept.
 tags:
-  - Arxiv
-  - papers
-  - mpia tool
+  - MPIA
 links: null
 image:
   caption: MPIA logo
   focal_point: Smart
-  filename: https://www2.mpia-hd.mpg.de/homes/syed/images/logo_l.png
   preview_only: true
-url_code: https://mpia.de
 ---
 
 {{% callout note %}}
 Description to come
 {{% /callout %}}
-
