@@ -20,7 +20,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: python, C++, Java, Javascript, CSS
-  icon: brackets-curly
+  icon: file-code
   icon_pack: fab
   name: Software Development
 - description: MySQL, PostgreSQL
