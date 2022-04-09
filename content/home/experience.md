@@ -28,7 +28,7 @@ experience:
   - title: Tenure | Astrophysicist - Data Scientist
     company: Max Planck Institute for Astronomy
     company_url: 'http://mpia.de'
-    company_logo: org-gc
+    company_logo: mpia-logo.png
     location: Heidelberg, Germany
     date_start: '2021-11-01'
     date_end:
@@ -40,7 +40,7 @@ experience:
   - title: Postdoc | Gaia & 4MOST unit manager
     company: Max Planck Institute for Astronomy
     company_url: 'http://mpia.de'
-    company_logo: org-gc
+    company_logo: mpia-logo.png
     location: Heidelberg, Germany
     date_start: '2014-05-01'
     date_end: '2021-10-31'
@@ -54,7 +54,7 @@ experience:
   - title: Postdoc | Semi-resolved populations in galaxies
     company: University of Washington
     company_url: 'http://depts.washington.edu/astron/'
-    company_logo: org-x
+    company_logo: uw-logo.png
     location: Seattle, WA, USA
     date_start: '2011-03-01'
     date_end: '2014-04-30'
