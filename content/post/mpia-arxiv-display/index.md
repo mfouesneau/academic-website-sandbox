@@ -23,6 +23,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: true
+url_code: "https://mpi-astronomy.github.io/arxiv_display/"
 ---
 [arxiv_display](https://github.com/mpi-astronomy/arxiv_display) is a hack born during a science coffee at MPIA between [Iskren Georgiev (@iskreng-y-g)](https://github.com/iskren-y-g) and [Morgan Fouesneau (@mfouesneau)](https://github.com/mfouesneau). This repository generates the screen content for the corridors of the institute. It is a sort of Arxiver for institutes or groups.
 
