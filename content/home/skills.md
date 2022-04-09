@@ -20,7 +20,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: python, C++, Java, Javascript, CSS
-  icon: code
+  icon: display-code
   icon_pack: fab
   name: Software Development
 - description: MySQL, PostgreSQL
@@ -28,7 +28,7 @@ feature:
   icon_pack: fas
   name: Databases
 - description: VSCode, IntelliJ Idea, Eclipse, Maven, SVN, git
-  icon: screwdriver-wrench
+  icon: toolbox
   icon_pack: fas
   name: Tools
 
