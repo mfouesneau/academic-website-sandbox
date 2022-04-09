@@ -1,31 +1,22 @@
 ---
-title: MPIA Data Science dept.
-summary: Bringing together Astronomy & Data Science 
-tags:
-- Arxiv
-- papers
-- mpia tool
-date: "2022-03-28T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+slides: ""
+url_pdf: ""
+summary: Bringing together Astronomy & Data Science
+url_video: ""
+date: 2022-03-28T00:00:00Z
 external_link: ""
-
+url_slides: ""
+title: MPIA Data Science dept.
+tags:
+  - Arxiv
+  - papers
+  - mpia tool
+links: null
 image:
   caption: MPIA logo
   focal_point: Smart
-
-links:
-url_code: "https://mpia.de"
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  filename: https://www2.mpia-hd.mpg.de/homes/syed/images/logo_l.png
+url_code: https://mpia.de
 ---
 
 {{% callout note %}}
