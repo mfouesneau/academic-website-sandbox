@@ -1,9 +1,10 @@
 ---
-title: Empirical flux calibration of Coronagraph observations (part 1)
-subtitle: Understanding the problem
+title: Empirical flux calibration of Coronagraph observations
+subtitle: " Part 1: Understanding the problem"
 date: 2022-04-12T22:05:24.765Z
 summary: >
-  A problem that requires flux calibration of low spectral resolution time series data.
+  A problem that requires flux calibration of low spectral resolution time
+  series data.
 draft: false
 featured: false
 authors:
@@ -15,7 +16,7 @@ tags:
 categories:
   - empirical
   - modeling
-projects:
+projects: null
 image:
   filename: featured
   focal_point: Smart
